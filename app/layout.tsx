@@ -11,7 +11,7 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'Voice AI',
   description: 'Voice AI',
-  generator: 'Voice AI',
+  generator: 'Voice AI By Austine',
 }
 
 export default function RootLayout({
